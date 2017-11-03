@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "rss-url-parser": "*"
+  },
+  "dependencies": {
+    "node-url-shorter": "0.0.4",
+    "passport-google-oauth": "^1.0.0"
+  }
+}
