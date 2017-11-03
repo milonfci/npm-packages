@@ -3,6 +3,7 @@
     "rss-url-parser": "*"
   },
   "dependencies": {
+    "express": "^4.16.2",
     "node-url-shorter": "0.0.4",
     "passport-google-oauth": "^1.0.0"
   }
